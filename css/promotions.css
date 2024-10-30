@@ -1,0 +1,45 @@
+
+.promotion_box_container{
+    background-color: #fff;
+    border: 1px solid #CFCFCF;
+    font-family: helvetica;
+    font-size: 15px;
+    padding: 2%;
+    width: 95%;
+    float: left;
+    text-align: justify;
+}
+.promotion_box_message{
+    float:left;
+    width:60%;
+
+}
+.promotion_box_image{
+    
+    padding-bottom:10px;
+}
+
+.promotion_box_image img{
+    width:100%;
+}
+
+.promotion-head-type1 {
+    border-bottom: 5px solid #212765;
+    float: left;
+    margin: 0 0 10px;
+    padding-bottom: 5px;
+    width: 98%;
+}
+.promotion-head-type1-small {
+    color: #212765;
+    font-family: arial;
+    font-size: 110%;
+    font-weight: bold;
+    line-height: 84%;
+    text-align: left;
+}
+.promotion-interlink{
+    color: #455CDA;
+    font-weight: bold;
+}
+

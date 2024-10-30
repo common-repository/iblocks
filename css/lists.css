@@ -1,0 +1,91 @@
+/* Styles for Default minimal list with 1 column */
+.min-list{
+    margin-top: 20px;
+	color: #000;
+    padding: 10px 2% !important;
+    width: 96%;
+	float: left;
+}
+
+.min-list li {
+    margin-bottom: 15px;
+    margin-left: 20px;
+	list-style-image: url("../images/li-home.png");
+}
+
+.min-list-bold{
+    margin-bottom: 15px;
+    margin-left: 20px;
+	font-weight: bold;
+	list-style-image: url("../images/li-home.png");
+}
+
+.min-list-3col{
+	width: 30%;
+	float: left;
+}
+
+.min-list-2col{
+	width: 45%;
+	float: left;
+}
+
+
+
+
+.title-list{
+    border: 1px solid #CFCFCF;
+    margin-top: 20px;
+    padding: 10px 2% !important;
+    width: 96%;
+	float: left;
+}
+
+.title-list li {
+    margin-bottom: 15px;
+    margin-left: 20px;
+	list-style-image: url("../images/li-home.png");
+}
+
+.title-list .title{
+    font-weight: bold;
+}
+.title-list .desc{
+
+}
+
+
+/* Styles for Creating Features Boxes */
+dl,dd,dt{
+	margin: 0;
+	padding: 0;
+}
+.small_img_features{
+	width:90%;
+	float:left;
+	height: 150px;
+	margin-bottom: 10px;
+	margin: 1%;
+}
+.small_img_features_image{
+	width:40px;
+	float:left;
+}
+.small_img_features_title{
+	width:95%;
+	color: #6D6C6C;
+	font-weight:bold;
+	font-size: 15px;
+	padding:5px;
+}
+.small_img_features_title img{
+	width: 64px;
+	height: 64px;
+}
+.small_img_features_content{
+	clear: both;
+    font-size: 14px;
+    padding: 5px 2%;
+    text-align: justify;
+    width: 90%;
+}

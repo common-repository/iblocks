@@ -1,0 +1,59 @@
+/*
+ * Create shaded block quotes
+*/
+.quote_thick_shadow{
+    -moz-box-shadow: 3px 3px 25px #137298;
+	-webkit-box-shadow: 3px 3px 25px #137298;
+	box-shadow: 3px 3px 25px #137298;
+    padding: 1%;
+    width: 96%;
+	margin-top:20px;
+	margin-bottom:20px;
+}
+
+.quote_thin_shadow{
+	-moz-box-shadow: 0px 0px 5px #137298;
+	-webkit-box-shadow: 0px 0px 5px #137298;
+	box-shadow: 0px 0px 5px #137298;
+    padding: 1%;
+    width: 96%;
+	margin-top:20px;
+	margin-bottom:20px;
+}
+
+.quote_box_shadow{
+    -moz-box-shadow: 3px 3px 5px #137298;
+	-webkit-box-shadow: 3px 3px 5px #137298;
+	box-shadow: 3px 3px 5px #137298;
+    padding: 1%;
+    width: 96%;
+	margin-top:20px;
+	margin-bottom:20px;
+}
+
+.quote_right_drop_shadow{
+    -moz-box-shadow: 5px 0 20px #30333E;
+	-webkit-box-shadow: 5px 0 20px #30333E;
+	box-shadow: 5px 0 20px #30333E;
+    padding: 1%;
+    width: 96%;
+	margin-top:20px;
+	margin-bottom:20px;
+}
+
+.quote_bottom_drop_shadow{
+    -moz-box-shadow: 0px 5px 20px #30333E;
+	-webkit-box-shadow: 0px 5px 20px #30333E;
+	box-shadow: 0px 5px 20px #30333E;
+    padding: 1%;
+    width: 96%;
+	margin-top:20px;
+	margin-bottom:20px;
+}
+
+.lines_quote{
+	border-left: 2px solid #cfcfcf;
+    border-right: 2px solid #cfcfcf;
+    padding: 10px 1%;
+    width: 96%;
+}

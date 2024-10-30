@@ -1,0 +1,142 @@
+.gen_head_small{
+	font-weight: bold;
+	font-size: 14px;
+	color: #000;
+}
+.gen_head_mid{
+	font-weight: bold;
+	font-size: 16px;
+	color: #000;
+}
+.gen_head_large{
+	font-weight: bold;
+	font-size: 18px;
+	color: #000;
+}
+
+
+.under_header_small{
+	border-bottom: 2px solid #000;
+	color: #000;
+	font-size: 14px;
+	font-weight: bold;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+.under_header_mid{
+	border-bottom: 2px solid #000;
+	color: #000;
+	font-size: 16px;
+	font-weight: bold;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+.under_header_large{
+	border-bottom: 2px solid #000;
+	color: #000;
+	font-size: 20px;
+	font-weight: bold;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+.under_text_small{
+	text-decoration: underline;
+	color: #000;
+	font-size: 14px;
+	font-weight: bold;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+.under_text_mid{
+	text-decoration: underline;
+	color: #000;
+	font-size: 16px;
+	font-weight: bold;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+.under_text_large{
+	text-decoration: underline;
+	color: #000;
+	font-size: 20px;
+	font-weight: bold;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+
+/*
+ * Box Headers
+*/
+
+.box_head_small{
+	background-color: #EEE;
+	color: black;
+	font-size: 20px;
+	height: 20px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	outline: 1px solid #CFCFCF;
+	padding: 1%;
+	width: 98%;
+}
+
+.box_head_small_sub{
+	float: left;
+	width: 85%;
+}
+
+.box_head_small_sub h1{
+	font-family: helvitica;
+	font-size: 12px;
+}
+
+.box_head_mid{
+	background-color: #EEE;
+	color: black;
+	font-size: 20px;
+	height: 20px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	outline: 1px solid #CFCFCF;
+	padding: 1%;
+	width: 98%;
+}
+
+.box_head_mid_sub{
+	float: left;
+	width: 85%;
+}
+
+.box_head_mid_sub h1{
+	font-family: helvitica;
+	font-size: 14px;
+}
+
+.box_head_large{
+	background-color: #EEE;
+	color: black;
+	font-size: 20px;
+	height: 20px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	outline: 1px solid #CFCFCF;
+	padding: 1%;
+	width: 98%;
+}
+
+.box_head_large_sub{
+	float: left;
+	width: 85%;
+}
+
+.box_head_large_sub h1{
+	font-family: helvitica;
+	font-size: 16px;
+}
+
